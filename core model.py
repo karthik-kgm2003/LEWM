@@ -1,6 +1,5 @@
 """
 LEWM Core Model — Hierarchical Bayesian Model (HBM)
-====================================================
 Exact 3-Level formulation as specified in:
 "The Longitudinal Employee Experience & Wellbeing Model (LEWM)"
 Karthik Gokuladas Menon, 2026
